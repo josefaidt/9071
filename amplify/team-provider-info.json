@@ -13,8 +13,14 @@
     },
     "categories": {
       "function": {
-        "90717fda076a": {},
-        "9071aaaf2cf4": {}
+        "90717fda076a": {
+          "deploymentBucketName": "amplify-9071-dev-152757-deployment",
+          "s3Key": "amplify-builds/90717fda076a-67376f69673874303638-build.zip"
+        },
+        "9071aaaf2cf4": {
+          "deploymentBucketName": "amplify-9071-dev-152757-deployment",
+          "s3Key": "amplify-builds/9071aaaf2cf4-644877485130584d6e38-build.zip"
+        }
       },
       "hosting": {
         "amplifyhosting": {

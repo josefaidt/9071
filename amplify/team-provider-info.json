@@ -1,15 +1,47 @@
 {
-  "dev": {
-    "awscloudformation": {
-      "AuthRoleName": "amplify-9071-dev-152757-authRole",
-      "UnauthRoleArn": "arn:aws:iam::814763596509:role/amplify-9071-dev-152757-unauthRole",
-      "AuthRoleArn": "arn:aws:iam::814763596509:role/amplify-9071-dev-152757-authRole",
-      "Region": "us-east-1",
-      "DeploymentBucketName": "amplify-9071-dev-152757-deployment",
-      "UnauthRoleName": "amplify-9071-dev-152757-unauthRole",
-      "StackName": "amplify-9071-dev-152757",
-      "StackId": "arn:aws:cloudformation:us-east-1:814763596509:stack/amplify-9071-dev-152757/8d279620-3859-11ed-a12c-12d5a555c8d7",
-      "AmplifyAppId": "dbaciat8nbvr7"
+    "dev": {
+        "awscloudformation": {
+            "AuthRoleName": "amplify-9071-dev-152757-authRole",
+            "UnauthRoleArn": "arn:aws:iam::814763596509:role/amplify-9071-dev-152757-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::814763596509:role/amplify-9071-dev-152757-authRole",
+            "Region": "us-east-1",
+            "DeploymentBucketName": "amplify-9071-dev-152757-deployment",
+            "UnauthRoleName": "amplify-9071-dev-152757-unauthRole",
+            "StackName": "amplify-9071-dev-152757",
+            "StackId": "arn:aws:cloudformation:us-east-1:814763596509:stack/amplify-9071-dev-152757/8d279620-3859-11ed-a12c-12d5a555c8d7",
+            "AmplifyAppId": "dbaciat8nbvr7"
+        },
+        "categories": {
+            "hosting": {
+                "amplifyhosting": {
+                    "appId": "dbaciat8nbvr7",
+                    "type": "cicd"
+                }
+            }
+        }
+    },
+    "next": {
+        "awscloudformation": {
+            "AuthRoleName": "amplify-9071-next-153423-authRole",
+            "UnauthRoleArn": "arn:aws:iam::814763596509:role/amplify-9071-next-153423-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::814763596509:role/amplify-9071-next-153423-authRole",
+            "Region": "us-east-1",
+            "DeploymentBucketName": "amplify-9071-next-153423-deployment",
+            "UnauthRoleName": "amplify-9071-next-153423-unauthRole",
+            "StackName": "amplify-9071-next-153423",
+            "StackId": "arn:aws:cloudformation:us-east-1:814763596509:stack/amplify-9071-next-153423/732833a0-385a-11ed-ab95-0ab4ae46a93f",
+            "AmplifyAppId": "dbaciat8nbvr7"
+        },
+        "categories": {
+            "function": {
+                "90717fda076a": {}
+            },
+            "hosting": {
+                "amplifyhosting": {
+                    "appId": "dbaciat8nbvr7",
+                    "type": "cicd"
+                }
+            }
+        }
     }
-  }
 }

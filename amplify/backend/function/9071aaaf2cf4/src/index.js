@@ -1,4 +1,4 @@
-console.log('hello from lambda')
+console.log('hello from lambda again')
 /**
  * @type {import('@types/aws-lambda').APIGatewayProxyHandler}
  */
